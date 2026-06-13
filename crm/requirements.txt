@@ -1,0 +1,6 @@
+django>=4.2
+django-dotenv
+mysql
+mysqlclient
+mysql-connector
+mysql-connector-python
